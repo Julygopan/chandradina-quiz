@@ -14,6 +14,6 @@ function updateCountDown(){
         time --;
     }else{
         console.log('over')
-        window.location.replace('chandradina-quiz/completed.html')
+        window.location.replace('https://julygopan.github.io/chandradina-quiz/completed.htmll')
     }
 }
